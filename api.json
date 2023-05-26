@@ -1,0 +1,45 @@
+
+[
+    {
+        "id" : 1,
+        "title" : "Lacteos",
+        "Description" : "Lacteos Americanos",
+        "price" : 80,
+        "imagen" : "img/lacteos.jfif"
+    },
+    {
+        "id" : 2,
+        "title" : "Pan",
+        "Description" : "Pan de azucar delicioso",
+        "price" : 40,
+        "imagen" : "img/pan.jfif"
+    },
+    {
+        "id" : 3,
+        "title" : "Bebidas",
+        "Description" : "Bebidas ricas y sabrosas",
+        "price" : 50,
+        "imagen" : "img/bebidas.jfif"
+    },
+    {
+        "id" : 4,
+        "title" : "Nacatamales",
+        "Description" : "Nacatamales de carne y pollo",
+        "price" : 23,
+        "imagen" : "img/nacatamales.jfif"
+    },
+    {
+        "id" : 5,
+        "title" : "Rosquillas",
+        "Description" : "Rosquillas de cuajada",
+        "price" : 45,
+        "imagen" : "img/rosquillas.jpg"
+    },
+    {
+        "id" : 6,
+        "title" : "Alcoholicas",
+        "Description" : "Bebidas Alcoholicas",
+        "price" : 35,
+        "imagen" : "img/alcoholicas.jfif"
+    }
+]

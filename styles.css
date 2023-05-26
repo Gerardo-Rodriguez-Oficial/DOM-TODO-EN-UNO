@@ -1,0 +1,53 @@
+.container2{
+  
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#caja1,#caja2,#caja3{
+    padding-top: 10px;
+    width: 50px;
+    height: 50px;
+    /* padding: 5px; */
+    margin: 3px;
+    border-radius: 5px;
+}
+
+#caja4{
+    /* padding-top: 10px; */
+    width: 70px;
+    height: 50px;
+    /* padding: 5px; */
+    margin: 3px;
+    border-radius: 5px;
+    background-color: darkcyan;
+    color: aliceblue;
+}
+
+#caja1{
+    background: forestgreen;
+    color: antiquewhite;
+}
+
+#caja2{
+    background: rebeccapurple;
+    color: antiquewhite;
+}
+
+#caja3{
+    background: lightcoral;
+    color: antiquewhite;
+}
+
+
+#caja5{
+    background: fuchsia;
+    color: aliceblue;
+   width: 230px;
+   height: 230px;
+   border-radius: 5px;
+   margin: 0;
+   padding: 0;
+  
+}
